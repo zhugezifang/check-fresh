@@ -11,6 +11,8 @@ Why must we pay attention to batch codes? There are four core reasons behind thi
 3. **Quality Tracing**: If skin discomfort occurs after using a product, the batch code enables the brand to trace the production process of that batch and identify potential quality issues.
 4. **Anti-Counterfeiting Verification**: Regular brands follow fixed batch code rules, and corresponding information can be found on official or professional platforms. Counterfeit products often have random codes or inconsistent query results with product information.
 
+<img width="2508" height="1780" alt="image" src="https://github.com/user-attachments/assets/ef66985f-4bc8-42a0-ade5-9c0cc742e671" />
+
 you can query it on [check cosmetic](https://checkcosmetic.online/)
 
 
