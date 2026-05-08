@@ -1,4 +1,4 @@
-# check fresh——Cosmetics & Perfume Batch Code Check Guide
+# Check Fresh——Cosmetics & Perfume Batch Code Check Guide
 In the world of beauty consumption, we often focus on product efficacy and reputation, yet easily overlook a crucial detail—product **freshness** and **safety**. Expired or deteriorated cosmetics not only lose their original effectiveness but may also pose health risks such as skin allergies and infections. The **Batch Code**, serving as a cosmetic’s "digital ID card," is the key to unlocking product manufacturing information and assessing usage safety. Today, with the technical support of professional platforms, we will explain in detail how to safeguard beauty safety through batch code checks, along with key knowledge points for daily care.
 
 
