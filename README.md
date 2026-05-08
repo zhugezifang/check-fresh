@@ -13,7 +13,7 @@ Why must we pay attention to batch codes? There are four core reasons behind thi
 
 <img width="2508" height="1780" alt="image" src="https://github.com/user-attachments/assets/ef66985f-4bc8-42a0-ade5-9c0cc742e671" />
 
-you can query it on [check cosmetic](https://checkcosmetic.online/)
+you can query it on [check cosmetic](https://checkcosmetic.online/) or [batch code checker](https://batchcodechecker.org/)
 
 
 ## II. Can’t Find the Batch Code? This "Location Guide" Helps You Locate It Quickly
